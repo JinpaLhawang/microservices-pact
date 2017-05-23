@@ -1,9 +1,10 @@
 *.ipr
 *.iws
 *.iml
+.project
 .gradle
 out
 target
 build
 foo-consumer-version
-
+pacts
