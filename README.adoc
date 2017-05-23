@@ -68,7 +68,7 @@ $ ./gradlew pactVerify
 :microservices-pact-provider:pactVerify_fooProvider
 
 Verifying a pact between fooConsumer and fooProvider
-  [Using file /Users/pivotal/workspace/microservices-pact/microservices-pact-consumer/target/pacts/Foo_Consumer-Foo_Provider.json]
+  [Using file /Users/pivotal/workspace/microservices-pact/pacts/Foo_Consumer-Foo_Provider.json]
   a request for Foos
     returns a response which
       has status code 200 (OK)
